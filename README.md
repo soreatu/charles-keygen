@@ -1,1 +1,1 @@
-![whoops](view.gif)
+![whoops](view.png)
